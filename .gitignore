@@ -41,3 +41,5 @@ vignettes/*.pdf
 # Output Files
 output/*
 /output/*.pdf
+
+\.DS_Store
